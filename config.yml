@@ -7,5 +7,5 @@ url: "http://example.com"
 # Build settings
 markdown: kramdown
 sass:
-  sass_dir: _sass
+  sass_dir: assets/sass
   style: compressed
