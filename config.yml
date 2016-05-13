@@ -1,0 +1,11 @@
+# Site settings
+title: "Peachy Clean"
+description: "site description goes here"
+
+url: "http://example.com"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
