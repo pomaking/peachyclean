@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: post
 title: Lorem Ipsum
 date: 2014-08-31T14:36:00.000Z
 permalink: /first-post.html
